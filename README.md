@@ -1,2 +1,3 @@
 # selenium-pom
-test automation project using selenium and testNG with java implementing Page Object Model  
+## test automation project using selenium and testNG with java implementing Page Object Model ##
+This is a Selenium-based automation project for testing the OrangeHRM demo application. It leverages Selenium WebDriver for browser automation, following the Page Object Model (POM) to enhance code maintainability and readability. TestNG is used for test execution, assertions, and reporting. The framework integrates key Selenium tools and features such as WebDriverWait, Actions class, and JavaScriptExecutor to handle dynamic elements and complex user interactions. This setup simulates real-world testing scenarios and provides a robust foundation for scalable test automation.
